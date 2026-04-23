@@ -1,0 +1,11 @@
+nome,conta,cartao,limite,score,email,mensagem,categoria
+João Silva,12345-6,1111 2222 3333 4444,2500,720,joao.silva@email.com,"João Silva, temos uma nova oferta para você!",Comum
+Maria Souza,98765-4,5555 6666 7777 8888,5000,810,maria.souza@email.com,"Maria Souza, você tem acesso a benefícios exclusivos!",VIP
+Carlos Lima,45678-9,9999 0000 1111 2222,1800,650,carlos.lima@email.com,"Carlos Lima, temos uma nova oferta para você!",Comum
+Ana Pereira,32145-7,2222 3333 4444 5555,3200,740,ana.pereira@email.com,"Ana Pereira, temos uma nova oferta para você!",Comum
+Bruno Costa,65432-1,6666 7777 8888 9999,1500,600,bruno.costa@email.com,"Bruno Costa, confira dicas para melhorar seu score!",Risco
+Fernanda Alves,74125-8,1234 5678 9012 3456,7000,830,fernanda.alves@email.com,"Fernanda Alves, você tem acesso a benefícios exclusivos!",VIP
+Lucas Martins,85236-9,4321 8765 2109 6543,2800,710,lucas.martins@email.com,"Lucas Martins, temos uma nova oferta para você!",Comum
+Patrícia Gomes,96321-0,1111 9999 2222 8888,4500,790,patricia.gomes@email.com,"Patrícia Gomes, temos uma nova oferta para você!",Comum
+Rafael Teixeira,15987-3,3333 4444 5555 6666,2200,680,rafael.teixeira@email.com,"Rafael Teixeira, temos uma nova oferta para você!",Comum
+Juliana Rocha,75319-6,7777 8888 9999 0000,6000,820,juliana.rocha@email.com,"Juliana Rocha, você tem acesso a benefícios exclusivos!",VIP
