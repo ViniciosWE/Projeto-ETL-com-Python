@@ -27,6 +27,7 @@ A aplicação foi desenvolvida utilizando Python e a biblioteca Pandas, com foco
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
+```bash
 Desafio/
 │
 ├── data/
@@ -39,19 +40,22 @@ Desafio/
 │ └── load.py
 │
 └── main.py
-
+```
 
 ---
 
 ## Como Executar
 
 1. Instalar as dependências:
-***pip install pandas***
+```bash
+pip install pandas
+```
 
 
-2. Executar o projeto:
-***python main.py***
-
+3. Executar o projeto:
+```bash
+python main.py
+```
 
 ---
 
@@ -76,4 +80,4 @@ Desafio/
 
 ## Autor
 
-Vinicios Weide Ebling
+* **Vinícios Weide Ebling** - [vinicioswe2005@gmail.com](mailto:vinicioswe2005@gmail.com)
