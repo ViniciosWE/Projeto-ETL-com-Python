@@ -24,6 +24,13 @@ A aplicação foi desenvolvida utilizando Python e a biblioteca Pandas, com foco
 
 ---
 
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT.  
+Consulte o arquivo [LICENSE](LICENSE.txt) para mais informações.
+
+---
+
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
